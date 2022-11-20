@@ -8,7 +8,7 @@ Prerequisites:
 
 Provided in the git repository:
 1. The MATLAB function files *paraest*, *relxopt*, *fixedopt*, and *mischeck* with associated GAMS files
-2. PC-SAFT parameters of the solvents used in the manuscript
+2. PC-SAFT parameters of the polar and nonpolar solvents used in the manuscript (MAT files)
 
 Setting up:
 1. Interface GAMS and MATLAB with GDXMRW procedure (details can be found at https://www.gams.com/latest/docs/T_GDXMRW.html)
